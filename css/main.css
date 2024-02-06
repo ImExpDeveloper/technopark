@@ -1,0 +1,67 @@
+@font-face {
+  font-weight: 400;
+  font-family: Inter;
+  src: url("src/fonts/Inter-Regular.ttf");
+}
+@font-face {
+  font-weight: 400;
+  font-family: Montserrat;
+  src: url("src/fonts/Montserrat-Regular.ttf");
+}
+@font-face {
+  font-weight: 500;
+  font-family: Montserrat;
+  src: url("src/fonts/Montserrat-Medium.ttf");
+}
+@font-face {
+  font-weight: 600;
+  font-family: Montserrat;
+  src: url("src/fonts/Montserrat-SemiBold.ttf");
+}
+@font-face {
+  font-weight: 700;
+  font-family: Montserrat;
+  src: url("src/fonts/Montserrat-Bold.ttf");
+}
+@font-face {
+  font-weight: 400;
+  font-family: Poppins;
+  src: url("src/fonts/Poppins-Regular.ttf");
+}
+@font-face {
+  font-weight: 500;
+  font-family: Poppins;
+  src: url("src/fonts/Poppins-Medium.ttf");
+}
+@font-face {
+  font-weight: 600;
+  font-family: Poppins;
+  src: url("src/fonts/Poppins-SemiBold.ttf");
+}
+@font-face {
+  font-weight: 700;
+  font-family: Poppins;
+  src: url("src/fonts/Poppins-Bold.ttf");
+}
+@font-face {
+  font-weight: 400;
+  font-family: Raleway;
+  src: url("src/fonts/Raleway-Regular.ttf");
+}
+@font-face {
+  font-weight: 400;
+  font-family: Roboto;
+  src: url("src/fonts/Roboto-Regular.ttf");
+}
+@font-face {
+  font-weight: 700;
+  font-family: Roboto;
+  src: url("src/fonts/Roboto-Bold.ttf");
+}
+@font-face {
+  font-weight: 600;
+  font-family: VelaSans;
+  src: url("src/fonts/VelaSans-SemiBold.otf");
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Njc3MvYmFzZS9fYmFzZS5zY3NzIiwibWFpbi5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxnQkFBQTtFQUNBLGtCQUFBO0VBQ0EsdUNBQUE7QUNDRjtBREVBO0VBQ0UsZ0JBQUE7RUFDQSx1QkFBQTtFQUNBLDRDQUFBO0FDQUY7QURHQTtFQUNFLGdCQUFBO0VBQ0EsdUJBQUE7RUFDQSwyQ0FBQTtBQ0RGO0FESUE7RUFDRSxnQkFBQTtFQUNBLHVCQUFBO0VBQ0EsNkNBQUE7QUNGRjtBREtBO0VBQ0UsZ0JBQUE7RUFDQSx1QkFBQTtFQUNBLHlDQUFBO0FDSEY7QURPQTtFQUNFLGdCQUFBO0VBQ0Esb0JBQUE7RUFDQSx5Q0FBQTtBQ0xGO0FEUUE7RUFDRSxnQkFBQTtFQUNBLG9CQUFBO0VBQ0Esd0NBQUE7QUNORjtBRFNBO0VBQ0UsZ0JBQUE7RUFDQSxvQkFBQTtFQUNBLDBDQUFBO0FDUEY7QURVQTtFQUNFLGdCQUFBO0VBQ0Esb0JBQUE7RUFDQSxzQ0FBQTtBQ1JGO0FEV0E7RUFDRSxnQkFBQTtFQUNBLG9CQUFBO0VBQ0EseUNBQUE7QUNURjtBRFlBO0VBQ0UsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLHdDQUFBO0FDVkY7QURhQTtFQUNFLGdCQUFBO0VBQ0EsbUJBQUE7RUFDQSxxQ0FBQTtBQ1hGO0FEY0E7RUFDRSxnQkFBQTtFQUNBLHFCQUFBO0VBQ0EsMkNBQUE7QUNaRiIsImZpbGUiOiJtYWluLmNzcyJ9 */
