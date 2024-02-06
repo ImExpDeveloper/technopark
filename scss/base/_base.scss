@@ -85,9 +85,11 @@ body{
   justify-content: center;
   margin: auto 0;
   background: #f1f1f1;
+  flex-direction: column;
 }
 
-
-
+img {
+  max-width: 350px;
+}
 
 

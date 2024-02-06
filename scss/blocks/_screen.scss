@@ -1,0 +1,22 @@
+#screen {
+  background: $black;
+  display: flex;
+  flex-direction: column;
+  padding-top: 60px;
+}
+
+#screen .screen__2{
+  padding-top: 60px;
+}
+
+#screen .screen__3{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#screen .screen__3_2 {
+  padding: 0 5px 0 5px;
+}
