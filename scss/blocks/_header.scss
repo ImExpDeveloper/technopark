@@ -1,0 +1,35 @@
+header .header__top {
+  max-width: 600px;
+  min-width: 350px;
+  background: $black;
+}
+
+header .header__top-row {
+  color: $white;
+  background: $red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 48px;
+  min-height: 56px;
+}
+
+header .header__title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header .header__top-span {
+  color: $white;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
