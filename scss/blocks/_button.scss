@@ -1,0 +1,23 @@
+#button {
+  width: 350px;
+}
+
+#button .button{
+  background: $blue;
+  color: $black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  font-family: $font-main;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#button .button__row{
+  color: #717271;
+  font-family: $font-main;
+  font-weight: 400;
+  font-size: 14px;
+  padding-bottom: 20px;
+}

@@ -1,0 +1,35 @@
+#buy {
+  width: 350px;
+}
+
+#buy .buy__pow{
+  color: $black;
+  font-family: $font-main;
+  font-size: 32px;
+  font-weight: 600;
+  text-align: left;
+}
+
+#buy .buy__pow-3{
+  color: $black;
+  font-family: $font-main;
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#buy .buy__pow-4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: $font-main;
+  font-weight: 500;
+  font-size: 14px;
+  color: $black;
+}
+
+#buy .buy__pow-4 p{
+  padding-left: 5px;
+}
