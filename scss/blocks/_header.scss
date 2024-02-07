@@ -2,6 +2,7 @@ header .header__top {
   max-width: 600px;
   min-width: 350px;
   background: $black;
+  position: relative;
 }
 
 header .header__top-row {
@@ -34,3 +35,29 @@ header .header__top-span {
   padding-left: 10px;
 }
 
+header .header__hide {
+  width: 350px;
+  height: 927px;
+  position: absolute;
+}
+
+header .header__nav{
+  background: $white;
+  color: $black;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  flex-direction: column;
+}
+
+header .header__top-span-2{
+  color: $black;
+}
+
+header .header__nav{
+  color: $black;
+}
+
+header .line{
+  border-bottom: 1px solid #f1f1f1;
+}
