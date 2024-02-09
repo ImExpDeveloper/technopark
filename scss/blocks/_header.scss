@@ -1,6 +1,12 @@
-header .header__top {
+body{
   max-width: 600px;
   min-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header .header__top {
+
   background: $black;
   position: relative;
 }
@@ -11,34 +17,66 @@ header .header__top-row {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 12px;
+  font-size: 19.5px;
   font-family: Inter, sans-serif;
+  height: 36px;
 }
 
 header .container {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 48px;
-  min-height: 56px;
+  padding-top: 42px;
+  padding-left: 74px;
+  font-family: $font-main;
+  text-transform: uppercase;
+  font-size: 27px;
+}
+
+.header__title h1 {
+  display: flex;
+  letter-spacing: 3px;
+}
+
+.header__title strong{
+  display: flex;
+  align-items: center;
+}
+
+.header__title img{
+  width: 43px;
 }
 
 header .header__title {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: $white;
 }
 
-header .header__top-span {
-  color: $white;
-  font-size: 20px;
-  padding-left: 10px;
+.header__top-line {
+
 }
+
+.line {
+  background: $white;
+  width: 30px;
+  height: 2px;
+}
+
+.header__top-line li {
+  margin-bottom: 8px;
+}
+
+
+// Раскрывающееся меню
+
 
 header .header__hide {
   width: 350px;
   height: 927px;
   position: absolute;
+  margin-bottom: 100px;
 }
 
 header .header__nav{
@@ -58,6 +96,4 @@ header .header__nav{
   color: $black;
 }
 
-header .line{
-  border-bottom: 1px solid #f1f1f1;
-}
+
