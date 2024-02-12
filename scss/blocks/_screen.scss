@@ -4,22 +4,23 @@
   flex-direction: column;
   padding-top: 64px;
 }
+
 //Title
 
 #screen .screen__title {
-  background-image: linear-gradient(90deg, rgba(128,128,128,1) 0%, rgba(255,255,255,1) 35%);
+  background-image: linear-gradient(90deg, rgba(128, 128, 128, 1) 0%, rgba(255, 255, 255, 1) 35%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-align: center;
 }
 
-.screen__title h2{
+.screen__title h2 {
   font-family: $font-main;
   font-weight: 700;
   font-size: 50px;
 }
 
-.screen__title p{
+.screen__title p {
   font-family: $font-main;
   font-weight: 400;
   font-size: 25px;
@@ -28,7 +29,7 @@
 
 //Container
 
-#screen .screen__container{
+#screen .screen__container {
   background: $white;
   border-radius: 26px;
   max-width: 305px;
@@ -49,7 +50,7 @@
   padding-top: 13px;
 }
 
-#screen .screen__img-1{
+#screen .screen__img-1 {
   height: 28px;
   width: 180px;
   background-image: url(../src/img/Stars.png);
@@ -58,7 +59,7 @@
   margin-left: 13px;
 }
 
-#screen .screen__container-2{
+#screen .screen__container-2 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -75,6 +76,40 @@
   margin-left: 10px;
 }
 
+//Body
+
+#screen .screen__body {
+  background: $black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#screen .screen__body-h-1 {
+  color: $white;
+  font-family: $font-main;
+  font-weight: 700;
+  font-size: 68px;
+}
+
+#screen .screen__body-p-1{
+  color: $white;
+  font-family: $font-main;
+  font-weight: 500;
+  font-size: 40px;
+
+}
+
+#screen .screen__body-img-1 {
+  background-image: url(../src/img/lines.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left 8px top 20px;
+  height: 50px;
+  width: 90px;
+ 
+
+}
 
 
 
