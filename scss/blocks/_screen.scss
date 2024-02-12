@@ -114,5 +114,24 @@
   margin-left: 205px;
 }
 
+#screen .screen__body-img-2 {
+  background-image: url(../src/img/netbook.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 341px;
+  width: 600px;
+  margin-top: 80px;
+}
 
+//Footer
 
+#screen .screen__footer {
+  background: $black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#screen .screen__footer-img-2 {
+
+}
