@@ -48,7 +48,7 @@ header .header__title {
   align-items: center;
 }
 
-.line {
+.lines {
   background: $white;
   width: 31px;
   min-height: 3px;
@@ -60,31 +60,5 @@ header .header__title {
 }
 
 
-// Раскрывающееся меню
-
-
-header .header__hide {
-  width: 350px;
-  height: 927px;
-  position: absolute;
-  margin-bottom: 100px;
-}
-
-header .header__nav {
-  background: $white;
-  color: $black;
-  display: flex;
-  align-items: center;
-  justify-content: start;
-  flex-direction: column;
-}
-
-header .header__top-span-2 {
-  color: $black;
-}
-
-header .header__nav {
-  color: $black;
-}
 
 
